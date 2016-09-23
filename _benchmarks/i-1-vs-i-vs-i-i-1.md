@@ -12,6 +12,10 @@ tests:
     code: |
       i++
   -
+    name: ++ i
+    code: |
+      ++i
+  -
     name: i = i + 1
     code: |
       i = i + 1
